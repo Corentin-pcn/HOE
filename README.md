@@ -1,7 +1,7 @@
 # HOE
-Hubble Orientation Experiment
+<b>Hubble Orientation Experiment</b>
 
-Objectifs :
-- modéliser une roue d'inertie sous Simscape Multybody
-- étudier les caractéristiques de cette roue sur un modèle de satellite
-- comparer avec differentes roues pour trouver la meilleure
+Objectives :
+- Create an inertia wheel with Simscape Multybody
+- Study the characteristics of this inertia wheel on a satellite model
+- Compare with other type of wheel to find the best configuration
